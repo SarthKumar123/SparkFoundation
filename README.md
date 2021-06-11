@@ -1,3 +1,3 @@
 # Spark Foundations
 
-website live at [Donation for rivers & water bodies.](https://doodle-bug.github.io/SparkFoundation/)
+website live at [Donation for Tigers.](https://sarthkumar123.github.io/SparkFoundation/)
